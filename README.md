@@ -40,6 +40,6 @@ The script used can be modified to provide these and other results in not just c
 1) Election of a Sheriff.
 The script can be modified to total votes recieved and the total number of ballots issued
 
-2)Election of a school board official
+2) Election of a school board official
 The script can be modified to show which destrict tend to cast ballot for which candicate and if the winning candidate got most vote from her district.
 
