@@ -8,11 +8,11 @@ The voter turnout for each county
 The percentage of votes from each county out of the total count
 The county with the highest turnout
 
-##Resource
+## Resource
 The resource provide was:
 election_results.csv
 
-##Election-Audit results
+## Election-Audit results
 
 A total of 369,711 votes were cast.
 
